@@ -15,3 +15,14 @@ The application is deployed into Oculus Quest using SideQuest's App Lab.
 
 # Working
 Once application is opened in Oculus Quest 2 ,We can see the intoduction scene containing UI image with details and a start button. Once the start button is triggered using Oculus controllers the hunt will begin
+
+# Apk 
+The link for this VR_Treasure_Hunt Apk is in the "About" section, install it in Oculus Quest and Start the hunt
+
+# Installation Procedure (Only for Oculus Quest 2 devices)
+1.Download the APK from the drive link provided above.
+2.Open SideQuest application in your PC/Laptop and.
+3.Connect the Oculus Quest 2 to your PC/Laptop and SideQuest would automatically detect the device.
+4.Click on the upload button and select the downloaded APK.
+5.Once the installation is completely done, wear the Oculus Quest 2 and go into "Unknown Devices" tab.
+6.Click on the "Treasure Hunt" application to start.
